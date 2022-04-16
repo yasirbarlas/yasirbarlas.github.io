@@ -20,7 +20,6 @@ List of Modules Studying:
 - Computing and Data Analysis with Excel
 - Calculus I
 - Calculus II
-————————————————————————————————————
 - Linear Algebra I
 - Differential Equations
 - Convergence and Continuity
@@ -29,7 +28,6 @@ List of Modules Studying:
 - Statistical Modelling I
 - Introduction to Computer Programming
 - Linear Programming and Games
-————————————————————————————————————
 - Bayesian Statistical Methods
 - Statistical Modelling II
 - Third Year Project
