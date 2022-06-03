@@ -14,6 +14,7 @@ List of Modules Studying:
 ------
 **Pure Mathematics:**
 - Introduction to Algebra
+- Introduction to Probability
 - Numbers, Sets and Functions
 - Calculus I
 - Calculus II
@@ -28,7 +29,6 @@ List of Modules Studying:
 **Statistics:**
 - Computational Statistics with R
 - Computing and Data Analysis with Excel
-- Introduction to Probability
 - Probability and Statistics I
 - Probability and Statistics II
 - Statistical Modelling I
