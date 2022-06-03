@@ -26,6 +26,7 @@ List of Modules Studying:
 - Random Processes
 
 **Statistics:**
+- Computational Statistics with R
 - Computing and Data Analysis with Excel
 - Introduction to Probability
 - Probability and Statistics I
@@ -39,5 +40,4 @@ List of Modules Studying:
 
 **Computer Programming:**
 - Introduction to Computer Programming
-- Computational Statistics with R
 - Numerical Computing with C and C++
