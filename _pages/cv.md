@@ -17,9 +17,9 @@ Work experience
 ======
 * Summer 2022: Digital Experience Intern
   * Infosys
-  * Finding solutions to business marketing problems
-  * Looking at artificial intelligence and its use in marketing strategies
-  * Research into the field of data and marketing and later preparing a report for the DX team to use
+    * Finding solutions to business marketing problems
+    * Looking at artificial intelligence and its use in marketing strategies
+    * Research into the field of data and marketing and later preparing a report for the DX team to use
 
 * Summer 2021: Academic Research Intern
   * Queen Mary, University of London
