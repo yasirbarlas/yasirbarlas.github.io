@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a BSc Mathematics student in my second year, studying at Queen Mary, University of London. The modules I study lean towards the field of statistics, in hopes of becoming a data scientist.
+I am currently a BSc Mathematics student in my final year, studying at Queen Mary, University of London. The modules I study lean towards the field of statistics, in hopes of becoming a data scientist.
 
 List of Modules Studying:
 ------
