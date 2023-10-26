@@ -9,36 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* BSc. in Mathematics, Queen Mary, University of London, 2023 (expected)
-
-Work experience
-======
-* Summer 2022: Digital Experience Intern
-  * Infosys
-    * Finding solutions to business marketing problems
-    * Looking at artificial intelligence and its use in marketing strategies
-    * Research into the field of data and marketing and later preparing a report for the DX team to use
-
-* Summer 2021: Academic Research Intern
-  * Queen Mary, University of London
-  * Research Area: The Law of Small Numbers states that the Binomial distribution converges to the Poisson distribution. Using the programming language R, we investigate the total  variation distance between
-Binomial(n, c/n) and Poisson(c) when we fix c and n individually and we also look at the asymptotics for $nd_{TV}$ for a fixed c. A paper has been submitted to a journal for the project.
-  * Supervisor: Dr. Dudley Stark
-  
-Skills
-======
-* C++
-* Python
-  * NumPy
-  * Pandas
-  * Seaborn
-* R
-* MySQL
-* LaTeX
-* Tableau
-* Microsoft Office
-  * Excel
-  * Powerpoint
-  * Word
+<embed src="{{ site.baseurl }}/files/cv_yzb_acady.pdf" width="600" height="700" type='application/pdf'>
