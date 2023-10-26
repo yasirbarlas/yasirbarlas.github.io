@@ -8,36 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a BSc Mathematics student in my final year, studying at Queen Mary, University of London. The modules I study lean towards the field of statistics, which is important in artificial intelligence and data science.
+I am currently pursuing an MSc in Artificial Intelligence at City, University of London. The degree emphasises a strong focus on deep and reinforcement learning.
 
-List of Modules Studying:
-------
-**Pure Mathematics:**
-- Introduction to Algebra
-- Introduction to Probability
-- Numbers, Sets and Functions
-- Calculus I
-- Calculus II
-- Linear Algebra I
-- Differential Equations
-- Vectors and Matrices
-- Convergence and Continuity
-- Introduction to Differential Geometry
-- Linear Programming and Games
-- Random Processes
+Prior to my master's degree, I graduated with a BSc Mathematics degree at Queen Mary, University of London. My mathematics degree was tailored towards statistics and machine learning, further details can be found in the Education section.
 
-**Statistics:**
-- Computational Statistics with R
-- Computing and Data Analysis with Excel
-- Probability and Statistics I
-- Probability and Statistics II
-- Statistical Modelling I
-- Statistical Modelling II
-- Bayesian Statistical Methods
-- Third Year Project
-- Introduction to Machine Learning
-- Time Series
-
-**Computer Programming:**
-- Introduction to Computer Programming
-- Numerical Computing with C and C++
+My interests lie in the fields of probability, statistics, reinforcement learning and natural language processing.
