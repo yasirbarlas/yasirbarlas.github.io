@@ -18,8 +18,8 @@ analysis (PCA) in wild-type model, the network lost its “small-world” charac
 to longer shortest path lengths but more robust signal propagation resulting from higher clustering. 
 These two wild-type networks (with and without global action potential) may correspond to fast and slow conduction pathways. 
 Lastly, a one-parameter non-linear preferential attachment model is a good fit to all three AVN networks.'
-date: 2023-11-30
-venue: 'arXiv'
+date: 2024-05-24
+venue: 'arXiv preprint arXiv:2405.15841'
 paperurl: 'https://arxiv.org/pdf/2405.15841'
 citation: 'Maltsev, A. V., Barlas, Y. Z., Hazan, A., Zhang, R., Ottolia, M., Goldhaber, J. I. (2024), &quot;Dual network structure of the AV node&quot;, <i>arXiv preprint arXiv:2405.15841</i>'
 ---
