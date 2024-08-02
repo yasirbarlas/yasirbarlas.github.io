@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yasir Barlas"
   avatar           : "yasir.jpg"
-  bio              : "MSc Artificial Intelligence Student"
+  bio              : "Incoming ELLIS PhD Student at The University of Manchester"
   location         : "London, United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
