@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yasir Barlas"
   avatar           : "yasir.jpg"
-  bio              : "Incoming ELLIS PhD Student at The University of Manchester"
+  bio              : "ELLIS PhD Student at The University of Manchester"
   location         : "London, United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=Fi4N3dwAAAAJ"
-  email            : "yasir-zubayr.barlas@city.ac.uk"
+  email            : "yasir.barlas@postgrad.manchester.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
