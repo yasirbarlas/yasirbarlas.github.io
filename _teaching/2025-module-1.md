@@ -1,14 +1,14 @@
 ---
 title: "DATA70132"
 collection: teaching
-type: "Level 7 Postgraduate Module"
+type: "Level 7 Postgraduate Master's Module"
 permalink: /teaching/2025-DATA70132
 venue: "The University of Manchester"
 date: 2025-01-27
 location: "Manchester, United Kingdom"
 ---
 
-DATA70132: Statistics & Machine Learning 2: AI, Complex Data, Computationally Intensive Statistics
+DATA70132: Statistics & Machine Learning 2: AI, Complex Data, Computationally Intensive Statistics (Semester B, 2024/25 Academic Year)
 
 The module is delivered as a mixture of lectures and practical sessions and has five main sections:
 
