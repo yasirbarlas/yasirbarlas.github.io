@@ -17,5 +17,3 @@ The module is delivered as a mixture of lectures and practical sessions and has 
 3. Neural Networks and Deep Learning: perceptrons, back-propagation and multi-layer networks.
 4. Markov-chain Monte Carlo (MCMC) methods: Markov chains and their stationary distributions, likelihood-based inference using the Metropolis-Hastings algorithm, likelihood-free inference using Approximate Bayesian Computation, tests for convergence, applications to Bayesian inference.
 5. Special Topic: Depending on the teaching staff, one special topic will be chosen to go into near-research depth, e.g. Random Forests; Social Networks; Time Series Analysis; Advanced Monte Carlo methods.
-
-See details [here](https://www.manchester.ac.uk/study/masters/courses/list/11428/msc-data-science-mathematics/course-details/DATA70132#course-unit-details)
